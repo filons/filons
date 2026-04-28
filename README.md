@@ -1,5 +1,5 @@
-# bonjour je me nomme KETCHADJI MARTIN ERIC
-### passionne par le developpement mobile & WEB| élève ingénieur en ingénierie des Arts numériques
+# Bonjour je me nomme KETCHADJI MARTIN ERIC
+### passionne par le developpement mobile & WEB, développement de jeu vidéo| élève ingénieur en ingénierie des Arts numériques
 
 <img src="https://github-profile-trophy.vercel.app/?username=filons&row=1&theme=darkhub&margin-w=15&no-bg=true" alt="GitHub Trophy">
 
